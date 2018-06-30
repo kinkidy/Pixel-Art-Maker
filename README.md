@@ -10,5 +10,4 @@ Pixel Art Maker
 This is a single page app that allows users to draw pattern on the grid
 
 ## link:
-
-https://github.com/kinkidy/Pixel-Art-Maker
+https://kinkidy.github.io/Pixel-Art-Maker/
